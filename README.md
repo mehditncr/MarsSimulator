@@ -194,12 +194,10 @@ PUAN: 1650
 
 ```text
 .
-├── mars_kolonisi_basit.c   # Oyunun tüm kaynak kodu
+├── mars_kolonisi.c   # Oyunun tüm kaynak kodu
 └── README.md
 ```
 
 ## Hazırlayan
 
-Ad Soyad: ........................
-
-Öğrenci No: ........................
+Ad Soyad: Mehdi Tunçer
