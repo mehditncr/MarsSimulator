@@ -107,9 +107,9 @@ Hasar seviyesine göre üç kademe vardır:
 
 | Seviye | Başlangıç suyu | Yedek parça | Fırtına süresi | Fırtına hasarı | Su bulma eşiği (yüksek / düşük) |
 |--------|:--------------:|:-----------:|:--------------:|:--------------:|:-------------------------------:|
-| Kolay (`K`) | 150 | 3 | 3 tur | 5 | 60 / 30 |
-| Normal (`N`) | 140 | 2 | 5 tur | 8 | 50 / 20 |
-| Zor (`Z`) | 130 | 2 | 7 tur | 12 | 40 / 10 |
+| Kolay (`K`) | 40 | 3 | 3 tur | 5 | 60 / 30 |
+| Normal (`N`) | 30 | 2 | 5 tur | 8 | 50 / 20 |
+| Zor (`Z`) | 20 | 2 | 7 tur | 12 | 40 / 10 |
 
 ## Oyun Kuralları
 
